@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "aw-schedule-manager": {
+      "command": "server/aw-schedule-manager.exe",
+      "args": [],
+      "env": {
+        "CLAUDE_PLUGIN_OPTION_READ_ONLY": "false",
+        "AW_P6_TOOL_SET": "all",
+        "AW_P6_AUTO_REFRESH": "1",
+        "AW_P6_AUTO_SCHEDULE": "1",
+        "AW_P6_FULL_BACKUP_MAX_MB": "1000",
+        "AW_AUTO_UPDATE_CHECK": "false"
+      }
+    }
+  }
+}

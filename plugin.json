@@ -1,0 +1,17 @@
+{
+  "name": "aw-schedule-manager",
+  "displayName": "AW Schedule Manager",
+  "version": "1.9.0",
+  "description": "Connect Google Antigravity to your Oracle Primavera P6 Professional SQLite database. Ask about schedules, edit activities, and build schedules as XER files.",
+  "author": {
+    "name": "Ahmed Wassel"
+  },
+  "homepage": "https://github.com/Ahmed-Wassel/AW-Schedule-Manager-Antigravity",
+  "repository": "https://github.com/Ahmed-Wassel/AW-Schedule-Manager-Antigravity",
+  "logo": "assets/icon.png",
+  "suggestedPrompts": [
+    "Summarize the project open in Primavera P6 and list its critical activities",
+    "Run a DCMA 14-point schedule assessment check",
+    "Compare baseline with the latest update and show slips"
+  ]
+}

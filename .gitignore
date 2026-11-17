@@ -1,0 +1,13 @@
+# Antigravity & OS cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.DS_Store
+Thumbs.db
+
+# Databases & Backups
+*.db
+*.db-shm
+*.db-wal
+p6_backups/
